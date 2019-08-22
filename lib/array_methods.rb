@@ -23,6 +23,5 @@ end
 
 def find_min_value(array)
 number = array.min
-end
 return number
 end
