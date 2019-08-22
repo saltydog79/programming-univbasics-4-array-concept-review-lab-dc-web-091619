@@ -5,7 +5,6 @@ if array[count] == value_to_find
   return count
   end
 end
-end
 nil
 end
 
