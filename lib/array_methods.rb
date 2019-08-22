@@ -23,8 +23,7 @@ end
 
 def find_min_value(array)
 i=0
-array.length.times do |number|
-number.min
+number = array.min
 end
 return number
 end
