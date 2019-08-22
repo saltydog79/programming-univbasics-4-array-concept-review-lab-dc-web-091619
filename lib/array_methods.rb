@@ -3,7 +3,6 @@ count = 0
   array.length.times do |count|
 if array[count] == value_to_find
   return count
-    count += 1
   end
 end
 nil
