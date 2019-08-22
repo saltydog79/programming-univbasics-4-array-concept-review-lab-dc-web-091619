@@ -27,5 +27,6 @@ array.length.times do |number|
 if array[number] == min
   min = array[number]
 end
+end
 min
 end
